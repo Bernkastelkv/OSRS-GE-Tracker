@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://roc.ms/visitapp"><img src="https://raw.githubusercontent.com/Q-gabe/OSRS-GE-Tracker/master/docs/images/banner.png" alt="OSRS GE Tracker" width="600"></a>
+  <a href="https://github.com/Q-gabe/OSRS-GE-Tracker"><img src="https://raw.githubusercontent.com/Q-gabe/OSRS-GE-Tracker/master/docs/images/banner.png" alt="OSRS GE Tracker" width="600"></a>
   <br>
   OSRS GE Tracker
   <br>
